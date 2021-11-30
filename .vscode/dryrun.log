@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/mnt/c/Users/ysg/OneDrive - Nanyang Technological University/MINE/Workspace/SID-NEW/CPscan'
+make: Leaving directory '/mnt/c/Users/ysg/OneDrive - Nanyang Technological University/MINE/Workspace/SID-NEW/CPscan'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 

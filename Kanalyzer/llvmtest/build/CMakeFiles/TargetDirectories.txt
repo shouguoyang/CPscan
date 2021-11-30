@@ -1,0 +1,8 @@
+/mnt/c/Users/ysg/OneDrive - Nanyang Technological University/MINE/Workspace/SID-NEW/CPscan/Kanalyzer/llvmtest/build/CMakeFiles/install/strip.dir
+/mnt/c/Users/ysg/OneDrive - Nanyang Technological University/MINE/Workspace/SID-NEW/CPscan/Kanalyzer/llvmtest/build/CMakeFiles/install/local.dir
+/mnt/c/Users/ysg/OneDrive - Nanyang Technological University/MINE/Workspace/SID-NEW/CPscan/Kanalyzer/llvmtest/build/CMakeFiles/llvmtest.dir
+/mnt/c/Users/ysg/OneDrive - Nanyang Technological University/MINE/Workspace/SID-NEW/CPscan/Kanalyzer/llvmtest/build/CMakeFiles/intrinsics_gen.dir
+/mnt/c/Users/ysg/OneDrive - Nanyang Technological University/MINE/Workspace/SID-NEW/CPscan/Kanalyzer/llvmtest/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ysg/OneDrive - Nanyang Technological University/MINE/Workspace/SID-NEW/CPscan/Kanalyzer/llvmtest/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ysg/OneDrive - Nanyang Technological University/MINE/Workspace/SID-NEW/CPscan/Kanalyzer/llvmtest/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/ysg/OneDrive - Nanyang Technological University/MINE/Workspace/SID-NEW/CPscan/Kanalyzer/llvmtest/build/CMakeFiles/install.dir

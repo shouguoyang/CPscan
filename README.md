@@ -52,3 +52,27 @@ identify bugs caused by the deletions of security operations in OS kernels.
 ```
 
 
+# YSG
+
+## install llvm develop environment
+
+```sh
+wget --no-check-certificate -O - https://apt.llvm.org/llvm-snapshot.gpg.key | sudo apt-key add -
+add-apt-repository 'deb http://apt.llvm.org/bionic/   llvm-toolchain-bionic-10  main'
+sudo apt update
+sudo apt-get install llvm-10 lldb-10 llvm-10-dev libllvm10 llvm-10-runtime clang-10
+sudo apt install libomp-dev # better specify version
+sudo apt-get install libboost-all-dev
+```
+
+## Write a new CMakeLists.txt
+
+see CMakeLists.txt
+
+
+## build
+```
+mkdir build && cd build
+cmake ..
+make
+```
